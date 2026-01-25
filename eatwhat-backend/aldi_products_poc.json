@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Home",
+    "price": null,
+    "description": null,
+    "image_url": null,
+    "url": null,
+    "category": "Special Buys",
+    "supermarket": "aldi"
+  },
+  {
+    "name": "Special Buys",
+    "price": null,
+    "description": null,
+    "image_url": null,
+    "url": null,
+    "category": "Special Buys",
+    "supermarket": "aldi"
+  }
+]

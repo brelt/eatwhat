@@ -1,0 +1,392 @@
+[
+  {
+    "url": "https://www.aldi.com.au/en/special-buys/",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.aldi.com.au/ALDI-special-buys",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.aldi.com.au/special-buys",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/ALDI_Masterbrand_Logo_FullColor_V7",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/iOS-button1",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/Play-store-button1",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://api.aldi.com.au/v2/product-category-tree?serviceType=walk-in&servicePoint=G452",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "accept-language": "en-AU",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.google.com/ccm/collect?frm=0&tid=DC-6356725&en=page_view&dl=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&scrsrc=www.googletagmanager.com&rnd=877131785.1769233993&dt=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&auid=1512228155.1769233993&navt=n&npa=0&gtm=45fe61m0v9190109336za200zd9190109336xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529&tft=1769233992845&tfd=2418&apve=1&apvf=f",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16713905917/?random=1769233992849&cv=11&fst=1769233992849&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45fe61m0v9190109336za200zd9190109336xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&frm=0&tiba=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1512228155.1769233993&data=event%3Dgtag.config&rfmt=3&fmt=4",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.google.com/pagead/1p-user-list/16713905917/?random=1769233992849&cv=11&fst=1769230800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45fe61m0v9190109336za200zd9190109336xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&frm=0&tiba=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1512228155.1769233993&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSiwEA56J1efRKAp_FSjVgTwSlQhdr0su9A9Qfilt2PLJtyjHRCSTV6XMHKsmQTkKpaJH9_wrvpQP0wP3_tEzsi8i7FeBxlkOc3_CZU5GFKJO5KJxP3uyO1irrV3rrVyioo5P1LN4RfG56aRKKuq08RvYgdqoiSd-AzQ2KwaNlO6hR0zhB2mTK-6GJFHVl&random=1530850421&rmt_tld=0&ipr=y",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.google.com.au/pagead/1p-user-list/16713905917/?random=1769233992849&cv=11&fst=1769230800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45fe61m0v9190109336za200zd9190109336xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529&u_w=1920&u_h=1080&url=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&frm=0&tiba=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1512228155.1769233993&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSiwEA56J1efRKAp_FSjVgTwSlQhdr0su9A9Qfilt2PLJtyjHRCSTV6XMHKsmQTkKpaJH9_wrvpQP0wP3_tEzsi8i7FeBxlkOc3_CZU5GFKJO5KJxP3uyO1irrV3rrVyioo5P1LN4RfG56aRKKuq08RvYgdqoiSd-AzQ2KwaNlO6hR0zhB2mTK-6GJFHVl&random=1530850421&rmt_tld=1&ipr=y",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "{\"event\":\"LandingPageView\",\"event_id\":\"\",\"message_id\":\"messageId-1769233996896-8171270219967-CR61HVBC77U9N3BNSMUG\",\"is_onsite\":false,\"timestamp\":\"2026-01-24T05:53:16.896Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KFQ90KQ7MA8JV00TS72YJVRQ_.tt.2\"},\"pixel\":{\"code\":\"CR61HVBC77U9N3BNSMUG\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.aldi.com.au/special-buys\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f865a164-f8e8-11f0-baba-0200170b9318::mYESibGGm7ZUrxvL1CBe-CR61HVBC77U9N3BNSMUG\",\"pageview_id\":\"f865a164-f8e8-11f0-baba-0200170b9318-sXKdW.0.0::f8659614-f8e8-11f0-baba-0200170b9318-CR61HVBC77U9N3BNSMUG\",\"variation_id\":\"default\",\"csid\":\"1769233996891::eBuThOojRwl-BkUvYt8k\",\"page_csid\":\"1769233996892::bmQn1URTHpkmWepSn5tp\",\"csct\":1,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\"},\"_inspection\":{\"trigger_source\":\"pixel_self\",\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "{\"event\":\"Pageview\",\"event_id\":\"\",\"message_id\":\"messageId-1769233996893-8458076100662-CR61HVBC77U9N3BNSMUG\",\"is_onsite\":false,\"timestamp\":\"2026-01-24T05:53:16.893Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KFQ90KQ7MA8JV00TS72YJVRQ_.tt.2\"},\"pixel\":{\"code\":\"CR61HVBC77U9N3BNSMUG\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.aldi.com.au/special-buys\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f865a164-f8e8-11f0-baba-0200170b9318::mYESibGGm7ZUrxvL1CBe-CR61HVBC77U9N3BNSMUG\",\"pageview_id\":\"f865a164-f8e8-11f0-baba-0200170b9318-sXKdW.0.0::f8659614-f8e8-11f0-baba-0200170b9318-CR61HVBC77U9N3BNSMUG\",\"variation_id\":\"default\",\"csid\":\"1769233996891::eBuThOojRwl-BkUvYt8k\",\"page_csid\":\"1769233996892::bmQn1URTHpkmWepSn5tp\",\"csct\":1,\"css\":1,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\"},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+  },
+  {
+    "url": "https://www.facebook.com/tr/?id=243994516055909&ev=PageView&dl=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&rl=&if=false&ts=1769233996940&sw=1920&sh=1080&v=2.9.252&r=stable&ec=0&o=4126&fbp=fb.2.1769233996930.101966885926079763&ler=empty&cdl=API_unavailable&pmd[title]=%20ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday%20&pmd[description]=Arriving%20in%20stores%20every%20Wednesday%20%26%20Saturday%2C%20ALDI%27s%20Special%20Buys%20include%20everything%20from%20electronics%20to%20furniture%2C%20food%20to%20clothes.%20Find%20out%20more%20here.&plt=1113.6000000238419&it=1769233993264&coo=false&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=mr2&expv2[4]=ct3&rqm=GET",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=243994516055909&ev=PageView&dl=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&rl=&if=false&ts=1769233996940&sw=1920&sh=1080&v=2.9.252&r=stable&ec=0&o=4126&fbp=fb.2.1769233996930.101966885926079763&ler=empty&cdl=API_unavailable&pmd[title]=%20ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday%20&pmd[description]=Arriving%20in%20stores%20every%20Wednesday%20%26%20Saturday%2C%20ALDI%27s%20Special%20Buys%20include%20everything%20from%20electronics%20to%20furniture%2C%20food%20to%20clothes.%20Find%20out%20more%20here.&plt=1113.6000000238419&it=1769233993264&coo=false&expv2[0]=pl0&expv2[1]=el2&expv2[2]=bc1&expv2[3]=mr2&expv2[4]=ct3&rqm=FGET",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://ad.doubleclick.net/activity;src=6356725;type=aldih0;cat=aldi_0;ord=1058212323363;npa=0;auiddc=1512228155.1769233993;uaa=x86;uab=64;uafvl=Chromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe61m0v9190109336za200zd9190109336xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529;epver=2;dc_random=1769233997_Wkgi7PUM2D7Zafazk9Wq-iZK2y-q09q_HA;~oref=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys?",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://6356725.fls.doubleclick.net/activityi;src=6356725;type=aldih0;cat=aldi_0;ord=1058212323363;npa=0;auiddc=1512228155.1769233993;uaa=x86;uab=64;uafvl=Chromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe61m0v9190109336za200zd9190109336xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529;epver=2;dc_random=1769233997_Wkgi7PUM2D7Zafazk9Wq-iZK2y-q09q_HA;_dc_test=1;~oref=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys?",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://cm.teads.tv/v2/advertiser?referer=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&buyer_pixel_id=12188&gtm_consent=false",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "{\"event_id\":\"\",\"message_id\":\"messageId-1769233997107-1711123386219\",\"is_onsite\":false,\"timestamp\":\"2026-01-24T05:53:17.107Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KFQ90KQ7MA8JV00TS72YJVRQ_.tt.2\"},\"pixel\":{\"code\":\"CR61HVBC77U9N3BNSMUG\",\"runtime\":\"1\",\"codes\":\"CR61HVBC77U9N3BNSMUG\"},\"page\":{\"url\":\"https://www.aldi.com.au/special-buys\",\"referrer\":\"\",\"load_progress\":\"1\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f865a164-f8e8-11f0-baba-0200170b9318::mYESibGGm7ZUrxvL1CBe\",\"pageview_id\":\"f865a164-f8e8-11f0-baba-0200170b9318-sXKdW.0.0::f8659614-f8e8-11f0-baba-0200170b9318\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"index\":0,\"sessions\":[{\"csid\":\"1769233996891::eBuThOojRwl-BkUvYt8k\",\"page_csid\":\"1769233996892::bmQn1URTHpkmWepSn5tp\",\"csct\":1,\"pixel_code\":\"CR61HVBC77U9N3BNSMUG\"}]},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Metadata\",\"auto_collected_properties\":{\"page_trigger\":\"PageView\",\"content_data\":{\"open_graph\":\"{\\\"og:title\\\":\\\"ALDI Special Buys | Shop In Store Wednesday & Saturday\\\",\\\"og:description\\\":\\\"Arriving in stores every Wednesday & Saturday, ALDI's Special Buys include everything from electronics to furniture, food to clothes. Find out more here.\\\",\\\"og:type\\\":\\\"website\\\",\\\"og:url\\\":\\\"https://www.aldi.com.au/special-buys\\\",\\\"og:site_name\\\":\\\"ALDI Australia\\\",\\\"og:image\\\":\\\"\\\",\\\"twitter:card\\\":\\\"summary\\\",\\\"twitter:site\\\":\\\"@AldiAU\\\",\\\"twitter:title\\\":\\\"ALDI Special Buys | Shop In Store Wednesday & Saturday\\\",\\\"twitter:description\\\":\\\"Arriving in stores every Wednesday & Saturday, ALDI's Special Buys include everything from electronics to furniture, food to clothes. Find out more here.\\\",\\\"twitter:image\\\":\\\"\\\"}\",\"microdata\":\"[]\",\"json_ld\":\"[{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"BreadcrumbList\\\",\\\"itemListElement\\\":[{\\\"@type\\\":\\\"ListItem\\\",\\\"position\\\":1,\\\"name\\\":\\\"Home\\\",\\\"item\\\":\\\"https://www.aldi.com.au/\\\"},{\\\"@type\\\":\\\"ListItem\\\",\\\"position\\\":2,\\\"name\\\":\\\"Special Buys\\\",\\\"item\\\":\\\"https://www.aldi.com.au/special-buys\\\"}]}]\",\"meta\":\"{\\\"title\\\":\\\"ALDI Special Buys | Shop In Store Wednesday & Saturday\\\",\\\"meta:description\\\":\\\"Arriving in stores every Wednesday & Saturday, ALDI's Special Buys include everything from electronics to furniture, food to clothes. Find out more here.\\\"}\"}}}"
+  },
+  {
+    "url": "https://aldisued.d3.sc.omtrdc.net/b/ss/aldis.aldi.au-2.5-prod/1/JS-2.27.0.4-LEWM/s79529184098635?AQB=1&ndh=1&pf=1&t=24%2F0%2F2026%2016%3A53%3A17%206%20-660&sdid=649127F46D9992FF-070FAFB79781C871&mid=01727766619717562923727482277241954379&aamlh=8&ce=UTF-8&cdp=3&pageName=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&g=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&c.&getPercentPageViewed=5.1&getPreviousValue=3.0&getNewRepeat=3.0&getTimeParting=6.3&getVisitNum=4.2&.c&cc=AUD&server=www.aldi.com.au&events=event1&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&c1=D%3Dv1&v1=ALDI%20Special%20Buys%20%7C%20Shop%20In%20Store%20Wednesday%20%26%20Saturday&c3=D%3Dv3&v3=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&c4=D%3Dv4&c6=D%3Dv6&v6=content&c7=D%3Dv7&c8=D%3Dv8&v8=en&v10=G452&c12=D%3Dv12&v12=AU&c13=D%3Dv13&c14=D%3Dv14&c19=D%3Dv19&c20=D%3Dv20&c21=D%3Dv21&v21=New&c23=D%3Dv23&v23=1&c24=D%3Dv24&v24=year%3D2026%20%7C%20month%3DJanuary%20%7C%20date%3D24%20%7C%20day%3DSaturday%20%7C%20time%3D4%3A53%20PM%7CWeekday&c52=4%3A53%20PM&c74=D%3Dv74&v74=%2Fspecial-buys&v154=9fcecc5016574485b72a27d6f1125dcb.36_0&v156=01727766619717562923727482277241954379&s=1920x1080&c=24&j=1.6&v=N&k=Y&bw=1920&bh=1080&mcorgid=95446750574EBBDF7F000101%40AdobeOrg&AQE=1",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/Download%20on%20the%20App%20Store%20Button%203",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/Get%20it%20on%20Google%20Play%20Button",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/facebook",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/instagram",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/LinkedIn%20Icon",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://dm.apac.cms.aldi.cx/is/content/aldiprodapac/youtube",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://t.teads.tv/track?action=browser-topics&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=12188&referer=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&user_session_id=9d43df86-012b-454c-9ab0-f7d089d7523c&hasConsent=true&cht=timeout",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.5.0_d71d360&provider=tag&buyer_pixel_id=12188&referer=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys&user_session_id=9d43df86-012b-454c-9ab0-f7d089d7523c&hasConsent=true&cht=timeout",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://adservice.google.com/ddm/fls/z/src=6356725;type=aldih0;cat=aldi_0;ord=1058212323363;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0;uamb=0;uam=;uap=Windows;uapv=10.0;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe61m0v9190109336za200zd9190109336xec;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~105391252~115938466~115938468~116682876~116992598~117041588~117099529;epver=2;dc_random=1769233997_Wkgi7PUM2D7Zafazk9Wq-iZK2y-q09q_HA;_dc_test=1;~oref=https%3A%2F%2Fwww.aldi.com.au%2Fspecial-buys",
+    "method": "GET",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://6356725.fls.doubleclick.net/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=3qnmwak&cookie_sync=1&upv=3.0.0&upid=tdxmyw5&ref=https://www.aldi.com.au/special-buys",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "{\"event_id\":\"\",\"message_id\":\"messageId-1769234003465-2540078892667\",\"is_onsite\":false,\"timestamp\":\"2026-01-24T05:53:23.465Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KFQ90KQ7MA8JV00TS72YJVRQ_.tt.2\"},\"pixel\":{\"code\":\"CR61HVBC77U9N3BNSMUG\",\"runtime\":\"1\",\"codes\":\"CR61HVBC77U9N3BNSMUG\"},\"page\":{\"url\":\"https://www.aldi.com.au/special-buys\",\"referrer\":\"\",\"load_progress\":\"2\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f865a164-f8e8-11f0-baba-0200170b9318::mYESibGGm7ZUrxvL1CBe\",\"pageview_id\":\"f865a164-f8e8-11f0-baba-0200170b9318-sXKdW.0.0::f8659614-f8e8-11f0-baba-0200170b9318\",\"variation_id\":\"default\",\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"index\":0},\"_inspection\":{\"vids\":\"\"},\"properties\":{},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}},\"action\":\"Pf\",\"auto_collected_properties\":{\"action_event\":\"twt\",\"inter\":{\"ct\":0,\"st\":1},\"page_inter\":{\"metrics_type\":\"ct|st\",\"ct\":0,\"st\":1}}}"
+  },
+  {
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": "{\"event\":\"EngagedSession\",\"event_id\":\"\",\"message_id\":\"messageId-1769234006913-7120569768385-CR61HVBC77U9N3BNSMUG\",\"is_onsite\":false,\"timestamp\":\"2026-01-24T05:53:26.913Z\",\"context\":{\"ad\":{\"sdk_env\":\"external\",\"jsb_status\":2},\"device\":{\"platform\":\"pc\"},\"user\":{\"anonymous_id\":\"01KFQ90KQ7MA8JV00TS72YJVRQ_.tt.2\"},\"pixel\":{\"code\":\"CR61HVBC77U9N3BNSMUG\",\"runtime\":\"1\"},\"page\":{\"url\":\"https://www.aldi.com.au/special-buys\",\"referrer\":\"\",\"load_progress\":\"2\"},\"library\":{\"name\":\"pixel.js\",\"version\":\"2.2.1\"},\"session_id\":\"f865a164-f8e8-11f0-baba-0200170b9318::mYESibGGm7ZUrxvL1CBe-CR61HVBC77U9N3BNSMUG\",\"pageview_id\":\"f865a164-f8e8-11f0-baba-0200170b9318-sXKdW.0.0::f8659614-f8e8-11f0-baba-0200170b9318-CR61HVBC77U9N3BNSMUG\",\"variation_id\":\"default\",\"csid\":\"1769233996891::eBuThOojRwl-BkUvYt8k\",\"page_csid\":\"1769233996892::bmQn1URTHpkmWepSn5tp\",\"csct\":1,\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\"},\"_inspection\":{\"trigger_source\":\"pixel_self\",\"vids\":\"\"},\"properties\":{\"lpv_trigger_type\":\"duration_10s\"},\"signal_diagnostic_labels\":{\"raw_email\":{\"label\":\"missing\"},\"raw_auto_email\":{\"label\":\"missing\"},\"raw_phone\":{\"label\":\"missing\"},\"raw_auto_phone\":{\"label\":\"missing\"},\"hashed_email\":{\"label\":\"missing\"},\"hashed_phone\":{\"label\":\"missing\"},\"raw_eb_email\":{\"label\":\"missing\"},\"raw_eb_phone\":{\"label\":\"missing\"},\"hashed_eb_email\":{\"label\":\"missing\"},\"hashed_eb_phone\":{\"label\":\"missing\"}}}"
+  }
+]
