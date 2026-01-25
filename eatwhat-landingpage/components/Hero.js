@@ -48,8 +48,8 @@ const Hero = ({
             <div className="flex w-full">
               <motion.div className="h-full w-full" variants={scrollAnimation}>
                 <Image
-                  src="/assets/Illustration1.png"
-                  alt="Meal Planning Illustration"
+                  src="https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=1200&h=800&fit=crop"
+                  alt="Family meal planning and cooking together"
                   quality={100}
                   width={612}
                   height={383}

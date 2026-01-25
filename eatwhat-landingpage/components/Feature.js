@@ -23,8 +23,8 @@ const Feature = () => {
         <ScrollAnimationWrapper className="flex w-full justify-end">
           <motion.div className="h-full w-full p-4" variants={scrollAnimation}>
             <Image
-              src="/assets/Illustration2.png"
-              alt="Meal Planning Features"
+              src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&h=800&fit=crop"
+              alt="Fresh groceries and vegetables at supermarket"
               layout="responsive"
               quality={100}
               height={414}

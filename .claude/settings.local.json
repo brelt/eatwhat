@@ -5,7 +5,10 @@
       "Bash(playwright install:*)",
       "Bash(python:*)",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(ls:*)",
+      "Bash(npm run dev:*)"
     ]
   }
 }

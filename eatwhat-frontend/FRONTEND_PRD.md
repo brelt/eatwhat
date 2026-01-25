@@ -291,7 +291,7 @@
 ## 8. 技术实现建议
 
 ### 8.1 技术栈
-- **框架**：React / Next.js / Vue.js
+- **框架**：React / Next.js
 - **状态管理**：Redux / Zustand / Context API
 - **样式**：Tailwind CSS / Styled Components
 - **UI组件库**：Ant Design Mobile / Material-UI
