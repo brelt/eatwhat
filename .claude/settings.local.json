@@ -8,7 +8,9 @@
       "WebSearch",
       "WebFetch(domain:unsplash.com)",
       "Bash(ls:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(npx create-next-app:*)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --no-src-dir --import-alias \"@/*\" --eslint)"
     ]
   }
 }
