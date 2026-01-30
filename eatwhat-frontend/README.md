@@ -138,11 +138,12 @@ eatwhat-frontend/
 ## Data Structure
 
 ### Mock Data Includes:
-- 6 Chinese recipes with full details
-- 5+ supermarket products from Woolworths, Coles, ALDI
-- 6 current deals with discounts
+- 6 Chinese recipes with full details and Unsplash images
+- 5+ supermarket products from Woolworths, Coles, ALDI with product images
+- 6 current deals with discounts and images
 - Default user preferences
 - Nearby supermarket information
+- **All images from Unsplash** - See `UNSPLASH_IMAGES.md` for details
 
 ### Key Types:
 - `Recipe`: Full recipe with ingredients, steps, nutrition
