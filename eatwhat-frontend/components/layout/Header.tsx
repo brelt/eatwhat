@@ -2,9 +2,11 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import { useAuth } from '@/context/AuthContext';
 
 export default function Header() {
   const [showSearch, setShowSearch] = useState(false);
+  const { user } = useAuth();
 
   return (
     <header className="sticky top-0 z-50 bg-white shadow-sm">
@@ -76,24 +78,18 @@ export default function Header() {
             <span>Sydney</span>
           </div>
 
-          {/* User Avatar */}
-          <Link href="/profile" className="flex-shrink-0">
-            <div className="w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center hover:bg-gray-300 transition">
-              <svg
-                className="w-6 h-6 text-gray-600"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
-                />
-              </svg>
-            </div>
-          </Link>
+          {/* User Avatar / Sign In */}
+          {user ? (
+            <Link href="/profile" className="flex-shrink-0">
+              <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center hover:bg-green-600 transition text-white text-sm font-bold">
+                {user.email?.[0]?.toUpperCase() ?? '?'}
+              </div>
+            </Link>
+          ) : (
+            <Link href="/auth" className="text-sm font-medium text-primary hover:text-green-600 transition px-3 py-1.5 border border-primary rounded-lg">
+              登录
+            </Link>
+          )}
         </div>
       </div>
 

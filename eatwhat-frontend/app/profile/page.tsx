@@ -6,8 +6,10 @@ import RecipeCard from '@/components/ui/RecipeCard';
 import { getUserPreferences, getFavoriteRecipes, getMealPlan } from '@/lib/storage';
 import { mockRecipes } from '@/data/mockData';
 import { UserPreferences } from '@/types';
+import { useAuth } from '@/context/AuthContext';
 
 export default function ProfilePage() {
+  const { user, signOut } = useAuth();
   const [activeTab, setActiveTab] = useState<'info' | 'favorites' | 'history'>('info');
   const [preferences, setPreferences] = useState<UserPreferences>(getUserPreferences());
   const [favoriteRecipeIds, setFavoriteRecipeIds] = useState<string[]>([]);
@@ -29,8 +31,12 @@ export default function ProfilePage() {
               吃
             </div>
             <div>
-              <h1 className="text-3xl font-bold mb-2">美食爱好者</h1>
-              <p className="opacity-90">Sydney, NSW</p>
+              <h1 className="text-3xl font-bold mb-2">
+                {user ? (user.email?.split('@')[0] ?? '用户') : '美食爱好者'}
+              </h1>
+              <p className="opacity-90">
+                {user ? user.email : '请登录查看完整信息'}
+              </p>
               <div className="flex gap-4 mt-3">
                 <div className="text-center">
                   <div className="text-2xl font-bold">{favoriteRecipes.length}</div>
@@ -204,6 +210,23 @@ export default function ProfilePage() {
                   </div>
                   <span className="text-gray-text text-sm">中文</span>
                 </div>
+
+                {user ? (
+                  <button
+                    onClick={() => signOut()}
+                    className="flex items-center gap-3 w-full p-4 hover:bg-red-50 rounded-lg transition"
+                  >
+                    <span className="text-2xl">🚪</span>
+                    <span className="font-medium text-red-500">退出登录</span>
+                  </button>
+                ) : (
+                  <Link href="/auth">
+                    <div className="flex items-center gap-3 p-4 hover:bg-gray-50 rounded-lg transition">
+                      <span className="text-2xl">🔑</span>
+                      <span className="font-medium text-primary">登录账户</span>
+                    </div>
+                  </Link>
+                )}
               </div>
             </div>
 
