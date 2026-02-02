@@ -1,0 +1,141 @@
+[
+  {
+    "name": "宫保鸡丁",
+    "name_en": "Kung Pao Chicken",
+    "cuisine_type": "Chinese",
+    "difficulty": "medium",
+    "cooking_time": 30,
+    "servings": 4,
+    "image_url": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=800&h=600&fit=crop",
+    "estimated_cost": 18.50,
+    "nutrition_info": { "calories": 385, "protein": 32, "carbs": 18, "fat": 22, "fiber": 3, "sodium": 680 },
+    "tags": ["Chinese", "Sichuan"],
+    "ingredients": [
+      { "name": "鸡胸肉", "name_en": "Chicken breast", "quantity": 500, "unit": "g", "category": "Meat" },
+      { "name": "花生", "name_en": "Peanuts", "quantity": 100, "unit": "g", "category": "Nuts" },
+      { "name": "青椒", "name_en": "Capsicum", "quantity": 2, "unit": "pieces", "category": "Vegetables" },
+      { "name": "酱油", "name_en": "Soy sauce", "quantity": 2, "unit": "tbsp", "category": "Condiments" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "将鸡胸肉切成2cm见方的块，用料酒、盐、淀粉腌制15分钟", "duration": 15 },
+      { "step_number": 2, "instruction": "青椒切块，葱姜蒜切末备用", "duration": 5 },
+      { "step_number": 3, "instruction": "热油炸花生至金黄，捞出备用", "duration": 3 },
+      { "step_number": 4, "instruction": "大火爆炒鸡丁至变色，加入宫保酱翻炒均匀", "duration": 5 },
+      { "step_number": 5, "instruction": "加入青椒和花生，快速翻炒后出锅", "duration": 2 }
+    ]
+  },
+  {
+    "name": "西兰花炒牛肉",
+    "name_en": "Beef and Broccoli Stir Fry",
+    "cuisine_type": "Chinese",
+    "difficulty": "easy",
+    "cooking_time": 25,
+    "servings": 4,
+    "image_url": "https://images.unsplash.com/photo-1626804475297-41608ea09aeb?w=800&h=600&fit=crop",
+    "estimated_cost": 22.00,
+    "nutrition_info": { "calories": 320, "protein": 28, "carbs": 12, "fat": 18, "fiber": 4, "sodium": 520 },
+    "tags": ["Chinese", "Cantonese"],
+    "ingredients": [
+      { "name": "牛肉片", "name_en": "Beef slices", "quantity": 400, "unit": "g", "category": "Meat" },
+      { "name": "西兰花", "name_en": "Broccoli", "quantity": 1, "unit": "bunch", "category": "Vegetables" },
+      { "name": "蚝油", "name_en": "Oyster sauce", "quantity": 2, "unit": "tbsp", "category": "Condiments" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "牛肉切薄片，用酱油、糖、淀粉腌制10分钟", "duration": 10 },
+      { "step_number": 2, "instruction": "西兰花切小朵，焯水1分钟后捞出", "duration": 3 },
+      { "step_number": 3, "instruction": "热油快炒牛肉至七成熟，盛出备用", "duration": 4 },
+      { "step_number": 4, "instruction": "加入西兰花、牛肉和蚝油，大火翻炒均匀", "duration": 3 }
+    ]
+  },
+  {
+    "name": "番茄炒鸡蛋",
+    "name_en": "Tomato and Egg Stir Fry",
+    "cuisine_type": "Chinese",
+    "difficulty": "easy",
+    "cooking_time": 15,
+    "servings": 2,
+    "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&h=600&fit=crop",
+    "estimated_cost": 8.50,
+    "nutrition_info": { "calories": 245, "protein": 14, "carbs": 10, "fat": 16, "fiber": 2, "sodium": 380 },
+    "tags": ["Chinese"],
+    "ingredients": [
+      { "name": "番茄", "name_en": "Tomatoes", "quantity": 3, "unit": "pieces", "category": "Vegetables" },
+      { "name": "鸡蛋", "name_en": "Eggs", "quantity": 4, "unit": "pieces", "category": "Dairy & Eggs" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "番茄切块，鸡蛋打散", "duration": 3 },
+      { "step_number": 2, "instruction": "炒蛋至七成熟，盛出备用", "duration": 3 },
+      { "step_number": 3, "instruction": "炒番茄至软烂出汁", "duration": 5 },
+      { "step_number": 4, "instruction": "加入鸡蛋，翻炒均匀后加盐调味", "duration": 2 }
+    ]
+  },
+  {
+    "name": "红烧排骨",
+    "name_en": "Braised Pork Ribs",
+    "cuisine_type": "Chinese",
+    "difficulty": "medium",
+    "cooking_time": 60,
+    "servings": 4,
+    "image_url": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800&h=600&fit=crop",
+    "estimated_cost": 26.00,
+    "nutrition_info": { "calories": 425, "protein": 26, "carbs": 8, "fat": 32, "fiber": 1, "sodium": 720 },
+    "tags": ["Chinese"],
+    "ingredients": [
+      { "name": "排骨", "name_en": "Pork ribs", "quantity": 800, "unit": "g", "category": "Meat" },
+      { "name": "生姜", "name_en": "Ginger", "quantity": 30, "unit": "g", "category": "Vegetables" },
+      { "name": "八角", "name_en": "Star anise", "quantity": 3, "unit": "pieces", "category": "Spices" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "排骨焯水去血沫，洗净备用", "duration": 10 },
+      { "step_number": 2, "instruction": "炒糖色至焦黄，加入排骨上色", "duration": 5 },
+      { "step_number": 3, "instruction": "加入姜片、八角、酱油和水，大火烧开", "duration": 5 },
+      { "step_number": 4, "instruction": "转小火炖煮40分钟至软烂", "duration": 40 },
+      { "step_number": 5, "instruction": "大火收汁，装盘即可", "duration": 5 }
+    ]
+  },
+  {
+    "name": "麻婆豆腐",
+    "name_en": "Mapo Tofu",
+    "cuisine_type": "Chinese",
+    "difficulty": "easy",
+    "cooking_time": 20,
+    "servings": 3,
+    "image_url": "https://images.unsplash.com/photo-1633337606656-2f4b638d2b86?w=800&h=600&fit=crop",
+    "estimated_cost": 12.00,
+    "nutrition_info": { "calories": 280, "protein": 18, "carbs": 12, "fat": 19, "fiber": 3, "sodium": 850 },
+    "tags": ["Chinese", "Sichuan"],
+    "ingredients": [
+      { "name": "嫩豆腐", "name_en": "Soft tofu", "quantity": 400, "unit": "g", "category": "Tofu & Soy" },
+      { "name": "猪肉末", "name_en": "Pork mince", "quantity": 150, "unit": "g", "category": "Meat" },
+      { "name": "豆瓣酱", "name_en": "Doubanjiang", "quantity": 2, "unit": "tbsp", "category": "Condiments" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "豆腐切块，用盐水浸泡5分钟", "duration": 5 },
+      { "step_number": 2, "instruction": "炒香肉末，加入豆瓣酱爆香", "duration": 4 },
+      { "step_number": 3, "instruction": "加水、豆腐，煮5分钟", "duration": 5 },
+      { "step_number": 4, "instruction": "勾芡，撒花椒粉和葱花", "duration": 2 }
+    ]
+  },
+  {
+    "name": "清蒸鲈鱼",
+    "name_en": "Steamed Sea Bass",
+    "cuisine_type": "Chinese",
+    "difficulty": "medium",
+    "cooking_time": 25,
+    "servings": 4,
+    "image_url": "https://images.unsplash.com/photo-1580959375944-c8f8a73e71b0?w=800&h=600&fit=crop",
+    "estimated_cost": 32.00,
+    "nutrition_info": { "calories": 195, "protein": 28, "carbs": 2, "fat": 8, "fiber": 0, "sodium": 420 },
+    "tags": ["Chinese", "Cantonese"],
+    "ingredients": [
+      { "name": "鲈鱼", "name_en": "Sea bass", "quantity": 1, "unit": "whole (600g)", "category": "Seafood" },
+      { "name": "葱姜", "name_en": "Spring onion & ginger", "quantity": 50, "unit": "g", "category": "Vegetables" }
+    ],
+    "steps": [
+      { "step_number": 1, "instruction": "鱼洗净，两面划刀，塞入姜片", "duration": 5 },
+      { "step_number": 2, "instruction": "水烧开后，蒸8-10分钟", "duration": 10 },
+      { "step_number": 3, "instruction": "倒掉蒸鱼水，铺上葱丝", "duration": 2 },
+      { "step_number": 4, "instruction": "浇热油，淋蒸鱼豉油", "duration": 2 }
+    ]
+  }
+]

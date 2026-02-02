@@ -1,0 +1,24 @@
+{
+  "name": "eatwhat-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node --transpileOnly src/main.ts",
+    "start": "node dist/main.js",
+    "build": "tsc",
+    "import:products": "ts-node --transpileOnly scripts/import-products.ts",
+    "import:recipes": "ts-node --transpileOnly scripts/import-recipes.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2",
+    "dotenv": "^16",
+    "express": "^4",
+    "fuse.js": "^7"
+  },
+  "devDependencies": {
+    "@types/express": "^4",
+    "@types/node": "^20",
+    "ts-node": "^10",
+    "typescript": "^5"
+  }
+}
